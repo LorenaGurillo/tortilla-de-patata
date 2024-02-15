@@ -4,7 +4,6 @@ La mejor receta de tortilla de patata del mundo
 ## Ingredientes:
 - Patatas
 - Huevos
-- Cebolla
 
 ## Preparación:
 - Freimos las patatas
